@@ -75,7 +75,7 @@ Start the app with uvicorn from the project root:
 uvicorn api.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
-Open http://127.0.0.1:8000/docs for the interactive OpenAPI docs.
+Open http://127.0.0.1:8000/docs for the interactive FastAPI docs.
 
 ## Project structure (important files)
 
